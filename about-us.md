@@ -1,5 +1,3 @@
-# About us
-
 Bem-vindo a Voos.com.br o melhor site de viagens do Brasil
 
 Voos.com.br é um site de viagens gratuito que compara milhões de passagens no Brasil e no mundo todo.
